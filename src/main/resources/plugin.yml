@@ -1,0 +1,6 @@
+name: AnvilAuth
+version: '${project.version}'
+main: io.github.mrlulu51.anvilauth.AnvilAuth
+api-version: 1.19
+authors: [ mrlulu51 ]
+description: A plugin for register/login depends on AuthMe with a beautiful anvil interface
